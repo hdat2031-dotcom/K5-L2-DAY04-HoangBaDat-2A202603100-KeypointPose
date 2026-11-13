@@ -7,7 +7,7 @@ Dữ liệu: 12 ảnh người COCO val2017 (Lin et al., 2014) và 8 ảnh chân
 - Họ tên: Hoàng Bá Đạt
 - MSSV: 2A202603100
 - Email: hdat2031@gmail.com
-- Link repository: https://github.com/hdat2031-dotcom/K5-L2-KeypointPose-Student.git
+- Link repository: https://github.com/hdat2031-dotcom/K5-L2-DAY04-HoangBaDat-2A202603100-KeypointPose
 - Phiên bản CVAT (Help → About): 2.82.1
 - Máy: Windows 11 · RAM 16 GB · chạy CVAT chế độ đầy đủ
 - Bộ ảnh (`src/exports/assignment.json` do `lab.py setup` tạo): có
